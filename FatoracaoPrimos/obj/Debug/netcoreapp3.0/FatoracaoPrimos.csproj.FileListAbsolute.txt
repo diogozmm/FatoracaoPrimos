@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\bin\Debug\netcoreapp3.0\FatoracaoPrimos.exe
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\obj\Debug\netcoreapp3.0\FatoracaoPrimos.AssemblyInfoInputs.cache
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\obj\Debug\netcoreapp3.0\FatoracaoPrimos.AssemblyInfo.cs
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\obj\Debug\netcoreapp3.0\FatoracaoPrimos.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\bin\Debug\netcoreapp3.0\FatoracaoPrimos.deps.json
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\bin\Debug\netcoreapp3.0\FatoracaoPrimos.runtimeconfig.json
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\bin\Debug\netcoreapp3.0\FatoracaoPrimos.runtimeconfig.dev.json
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\bin\Debug\netcoreapp3.0\FatoracaoPrimos.dll
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\bin\Debug\netcoreapp3.0\FatoracaoPrimos.pdb
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\obj\Debug\netcoreapp3.0\FatoracaoPrimos.dll
+C:\Users\Diogo\source\repos\FatoracaoPrimos\FatoracaoPrimos\obj\Debug\netcoreapp3.0\FatoracaoPrimos.pdb
